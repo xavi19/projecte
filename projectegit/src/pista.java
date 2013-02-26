@@ -1,7 +1,7 @@
 class pista {
 	
 	//instanciar variables
-	/// llargada;
+	int llargada;
 	int carril;   // Numero de carrils
 	String[] llistaCorredors;
 	int contadorCarrils = 0;
