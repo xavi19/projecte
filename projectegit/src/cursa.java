@@ -9,8 +9,7 @@ public class cursa {
 		Participant Corredor2 = new Participant("Juan", Pista, 0, 0);
 		Participant Corredor3 = new Participant("Jalbert", Pista, 0, 0);	
 		Participant Corredor4 = new Participant("Mario", Pista, 0, 0);	
-	/*	
-*/
+
 		Corredor.start();
 		Corredor2.start();
 		Corredor3.start();
