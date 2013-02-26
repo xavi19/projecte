@@ -46,12 +46,5 @@ class pista {
 		else
 			return 3;
 	}
-/*	boolean iniciCursa(){
-		
-		System.out.println("inici cursa");
-		if (carrilsPlens){
-			return true;
-		} 
-		return false;
-	} */
+
 }
